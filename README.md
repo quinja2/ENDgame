@@ -1,1 +1,1 @@
-This is just a test before I start intensive work, made with godot 3d
+This is the full source, please use it appropriately, and most important, have fun.
